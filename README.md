@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamdanurfore
 - 👀 I’m interested in reading, being in nature and spending time with family
 - 🌱 I’m currently learning everything to do with fron-end web development
-- 📫 How to reach me linkedIn @ nkedin.com/in/hamda-n-90808a224/
+- 📫 How to reach me linkedIn @ linkedin.com/in/hamda-n-90808a224/
 
 <!---
 hamdanurfore/hamdanurfore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
